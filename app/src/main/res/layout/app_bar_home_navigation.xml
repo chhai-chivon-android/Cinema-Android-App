@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wordpress.chhaichivon.cinema_android_app.activities.HomeNavigationActivity">
+    tools:context="com.wordpress.chhaichivon.cinema_android_app.ui.home.activity.HomeNavigationActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
